@@ -1,12 +1,12 @@
-# GITHUB NEXT PRE-RELEASE LICENSE TERMS
+#GITHUB下一个预发布许可条款
 
-These GitHub Next pre-release license terms are an agreement between you and GitHub, Inc. (“GitHub”). These terms apply to the pre-release software made available to you by GitHub, in addition to your main agreement with GitHub (together, the “Agreement”). To the extent there is a conflict between this Agreement and the terms in your main agreement with GitHub, these terms govern. 
+这些GitHub Next预发布许可条款是您和GitHub，Inc .(“GitHub”)之间的协议。这些条款适用于GitHub向您提供的预发行软件，以及您与GitHub的主协议(统称为“协议”)。如果本协议与您与GitHub的主协议中的条款有冲突，以这些条款为准。
 
-1. **INSTALLATION AND USE RIGHTS.**
-   1. General. GitHub grants a limited right to use a non-production instance of the software. You may use any number of copies of the software to develop and test your applications, including deployment within your internal corporate network.
-   2. Demo Use. The uses permitted above include use of the software in demonstrating your applications.
-   3. Third Party Components. The software may include third party components with separate legal notices or governed by other agreements, as may be described in a license file accompanying the software.
-   4. Extensions. The software may give you the option to download other GitHub and third party software packages. Any third party software packages are provided for your convenience only, and are governed by any applicable third party agreements. GitHub is not responsible or liable for any third party software.
+1. **安装和使用权。**
+   1.将军。GitHub授予使用该软件的非生产实例的有限权利。您可以使用任意数量的软件副本来开发和测试您的应用程序，包括在您的内部公司网络中的部署。
+   2.演示使用。上述允许的用途包括在演示您的应用时使用软件。
+   3.第三方组件。本软件可能包括具有单独法律声明或受其他协议管辖的第三方组件，如本软件随附的许可文件中所述。
+   4.扩展。该软件可能会让您选择下载其他GitHub和第三方软件包。任何第三方软件包仅为您的方便而提供，并受任何适用的第三方协议管辖。GitHub对任何第三方软件不承担任何责任。
 2. **PRE-RELEASE SOFTWARE.** This software is a pre-release version. Pre-release means software, online services, and additional products and features provided for preview, evaluation, demonstration or trial purposes, or pre-release versions of those, such as alpha, beta, or early access. It may not operate correctly, or work the way a final version of the software will. It may delete your data or have bugs. GitHub may change or discontinue it at any time without notice.  GitHub may change it for the final, commercial version or may not release a commercial version.  GitHub is not obligated to provide maintenance, technical support, or updates to you for the software. 
 3. **SCOPE OF LICENSE.** The software is licensed, not sold. This Agreement only gives you some rights to use the software. GitHub reserves all other rights, including retaining ownership of all aspects of the software and any and all intellectual property rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as expressly permitted in this Agreement. In doing so, you must comply with any technical limitations in the software that only allow you to use it in certain ways. You may not:
    * work around any technical limitations in the software;
